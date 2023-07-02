@@ -1,4 +1,3 @@
-import fpdf
 import pandas as pd
 import glob
 from fpdf import FPDF
